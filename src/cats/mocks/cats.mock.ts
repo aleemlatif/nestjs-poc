@@ -1,8 +1,5 @@
-export const BOOKS = [
-    { id: 1, title: 'First book', description: "This is the description for the first book", author: 'Olususi Oluyemi' },
-    { id: 2, title: 'Second book', description: "This is the description for the second book", author: 'John Barry' },
-    { id: 3, title: 'Third book', description: "This is the description for the third book", author: 'Clement Wilfred' },
-    { id: 4, title: 'Fourth book', description: "This is the description for the fourth book", author: 'Christian nwamba' },
-    { id: 5, title: 'Fifth book', description: "This is the description for the fifth book", author: 'Chris anderson' },
-    { id: 6, title: 'Sixth book', description: "This is the description for the sixth book", author: 'Olususi Oluyemi' },
+export const cats = [
+    { id: 1, name: 'Cat 1', age: '1 Year', breed: 'Russian' },
+    { id: 2, name: 'Cat 2', age: '5 Years', breed: 'Australian' },
+    { id: 3, name: 'Cat 3', age: '10 Years', breed: 'Pakistani' },
 ];
